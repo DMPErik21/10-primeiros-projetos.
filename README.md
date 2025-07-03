@@ -1,4 +1,4 @@
-# SUPERE O DESAFIO!!
+# EXTRAÇÃO DOS 10 PROJETOS EM ALTA DO GITHUB!!
 ------------------
 *Extraindo os 10 primeiros projetos em alta, do GitHub:*
 
